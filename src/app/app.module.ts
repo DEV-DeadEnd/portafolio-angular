@@ -8,7 +8,7 @@ import { FooterComponent } from './shared/footer/footer.component';
 import { PortafolioComponent } from './pages/portafolio/portafolio.component';
 import { AboutComponent } from './pages/about/about.component';
 import { ItemComponent } from './pages/item/item.component';
-import { AppRoutingM } from './app-routing.moudle';
+import { AppRoutingM } from './app-routing.module';
 
 @NgModule({
   declarations: [
